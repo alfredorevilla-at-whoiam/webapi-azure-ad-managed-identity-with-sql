@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>webapi_azure_ad_managed_identity_with_sql</RootNamespace>
+  </PropertyGroup>
+
+
+</Project>
